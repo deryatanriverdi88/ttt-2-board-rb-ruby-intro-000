@@ -1,2 +1,4 @@
 # Define the variable board below.
-board = get_variable_from_file("./lib/board.rb", "board")
+row=["","1","2","3"]
+
+row
