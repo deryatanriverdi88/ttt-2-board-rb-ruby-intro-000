@@ -1,4 +1,13 @@
 # Define the variable board below.
-row=["","1","2","3"]
-
-row
+row=["1","2","3"]
+row[0]
+row[1]
+row[2]
+row=["4","5","6"]
+row[4]
+row[5]
+row[6]
+row=["7", "8", "9"]
+row[7]
+row[8]
+row[9]
